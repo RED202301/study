@@ -6,8 +6,8 @@
 print("Hello World!")
 ```
 
+### 간단한 python 문법정리
 
-
-### 간단한 python 문법 정리
+> 코딩도장
 
 
