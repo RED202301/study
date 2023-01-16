@@ -157,3 +157,17 @@ push
 ---
 
 git add . : 모든 파일 가져옴ㅎ
+
+git config --global user.name  이메일 입력~
+
+
+
+cmd 에서 강제종료
+
+cmd : microsoft Corporation 
+
+tasklist
+
+taskkill /pid 8040
+
+taskkill/F /pid 8040
