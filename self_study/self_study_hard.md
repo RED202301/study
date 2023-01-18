@@ -122,6 +122,8 @@ for student, grade in grades.items():
 ...
 ```
 
+---
+
 함수의 결괏값(output) : return도 있어도 되고 없어도 됨 없어도 None 이 나옴
 
 함수의 입력(input) : parameter는 있어도 되고 없어도 됨
@@ -135,3 +137,84 @@ for student, grade in grades.items():
   - 데이터 처리를 위해서는 return 사용
 
 > print는 단지 확인을 위해서 출력이 끝 return은 밖으로 빼냄
+
+---
+
+> ### 함수
+
+len 함수 X
+
+sum 함수 X
+
+- return은 두 개이상이 안되기에 ,를 찍고 이어서 써줌 ex) x - y, x * y[이거는 튜플형식을 묶어줌]
+1.  dict로 묶어주지 않는 이유 k : v형태이기에 구조상 안됨
+
+2.  set로 묶지 않는 이유 : 중복값이 있을 수 없다는 특징 때문에 set는 할 수 없음
+
+3.  list로 묶지 않는 이유 :  변동 값이기에 list는 할 수 없음 
+
+4. Tuple로 묶는 이유 : immutalbe이기에 가능\
+   
+   > 구조, 중복, 변동의 이유가 있기에 tuple `but` 내가 변동값을 쓰고 싶으면 list로 묶어도 된다.
+
+```python
+if x < y:
+    return x * y
+else:
+    return x - y
+```
+
+> 함수 종료 시점은 return하는 순간 끝이남
+
+
+
+##### positinal argument의 형식 : 순서대로
+
+```python
+def add(x, y):
+    return x + y
+add(1) / add(2, 3, 4) #처럼하면 오류날 수 있음
+```
+
+
+
+##### keyword argument의 형식 : 직접 키워드 지정
+
+keyword 함수가 먼저 나올 수 없는 이유
+
+
+
+```python
+def add(x, y):
+    return x + y
+add(x = 3, 2) # 함수는 앞에부터 채우기 x = 3을 먼저넣어버리면
+# 3과 2가 둘다 x로 가기에 충돌이일어남
+```
+
+> (y = 2, x = 3) 의 형태는 가능
+
+
+
+##### Default argument values
+
+```python
+def add(x, y=0):
+
+    return x + y
+
+add(2, 3)
+```
+
+range(5)
+
+range(1, 5)가 가능한 이유는 range의 시작점이 0부터 default값이 설정되어있는 것
+
+
+
+##### python의 범위
+
+각 범위들은 본인 기준이기에 local에서 enclose였던 부분도 enclose에선 local임
+
+위치 보는 함수 print(locals())
+
+  print(globals())
