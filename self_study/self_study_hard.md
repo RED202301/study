@@ -121,3 +121,17 @@ for student, grade in grades.items():
     print(student, grade)
 ...
 ```
+
+함수의 결괏값(output) : return도 있어도 되고 없어도 됨 없어도 None 이 나옴
+
+함수의 입력(input) : parameter는 있어도 되고 없어도 됨
+
+함수의 범위(Scope) : 변수의 제한 범위 (내가 찾고자하는 변수가 존재하는 프로그램 상의 범위) 찾는 순서 => LEGB
+
+- print 함수와 return의 차이점
+  
+  - print를 사용하면 호출될 때마다 값이 출력됨(주로 테스트를 위해 사용)
+  
+  - 데이터 처리를 위해서는 return 사용
+
+> print는 단지 확인을 위해서 출력이 끝 return은 밖으로 빼냄
