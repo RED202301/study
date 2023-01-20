@@ -112,7 +112,7 @@ second commit 후 ESG 후 insert모드 자리에 :붙이고 wq(writequit)[대문
 
 vim ~/.gitconfig
 
-code ~/.gitconfig
+code ~/.gitconfigg
 
 <mark>git remote add origin http://git~~~<m</mark>ark>~~</mark>
 
