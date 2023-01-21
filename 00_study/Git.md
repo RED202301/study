@@ -169,19 +169,3 @@ tasklist
 taskkill /pid 8040
 
 taskkill/F /pid 8040
-
-code ~./bashrc => vs코드 설정
-
-alias jp="jupyter notebook" `공백 X`
-
-source ~/.bashrc로 확인
-
-b -> 아래 한줄 추가
-
-a => 위로 한줄 추가
-
-dd =>  그줄 삭제
-
-실수로 코드입력했을 시 위에 종료 or 커널에 restart clear
-
-jp 나올때 컨트롤 c 2번 3번 정도하고 bash나와지면 jp끄기
