@@ -8,6 +8,7 @@
 
 비시퀀스형 컨테이너 : 세트 딕셔너리
 
+<<<<<<< HEAD
 
 
 arr =[1,2,3,4,5]
@@ -23,3 +24,6 @@ for i in range(len(arr)):
 if 1 % 2 == 0:
 
 print(arr[i])
+=======
+tlznjtmss
+>>>>>>> 94c96fbce9f11d845b6cc157b1254e3102e28aa2

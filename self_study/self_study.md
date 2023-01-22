@@ -83,11 +83,7 @@ print("%0.3f" % c)
 
 > print 할때 콤마 안넣고 %넣어서 계산한다.
 
-
-
 ## 리스트를 변수값으로 지정 받는 경우
-
-
 
 ```python
 iduser_data : list
@@ -100,4 +96,23 @@ id[-1: len(list['변수값'])]
 ```python
 try: if문과 동일
 except: # ValueError, TypeError, 등이 있음 예외문 처리 할때 사용
+```
+
+
+
+## 정수가 입력되었을 때 True/False값 연산
+
+```python
+n = int(input())
+print(bool(n))
+```
+
+> bool() : 입력된 식이나 값을 평가해 불 형의 값(True or False)를 출력해준다.
+
+
+
+## 참 거짓 바꾸기
+
+```python
+
 ```

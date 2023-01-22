@@ -147,11 +147,11 @@ len 함수 X
 sum 함수 X
 
 - return은 두 개이상이 안되기에 ,를 찍고 이어서 써줌 ex) x - y, x * y[이거는 튜플형식을 묶어줌]
-1.  dict로 묶어주지 않는 이유 k : v형태이기에 구조상 안됨
+1. dict로 묶어주지 않는 이유 k : v형태이기에 구조상 안됨
 
-2.  set로 묶지 않는 이유 : 중복값이 있을 수 없다는 특징 때문에 set는 할 수 없음
+2. set로 묶지 않는 이유 : 중복값이 있을 수 없다는 특징 때문에 set는 할 수 없음
 
-3.  list로 묶지 않는 이유 :  변동 값이기에 list는 할 수 없음 
+3. list로 묶지 않는 이유 :  변동 값이기에 list는 할 수 없음 
 
 4. Tuple로 묶는 이유 : immutalbe이기에 가능\
    
@@ -166,8 +166,6 @@ else:
 
 > 함수 종료 시점은 return하는 순간 끝이남
 
-
-
 ##### positinal argument의 형식 : 순서대로
 
 ```python
@@ -176,13 +174,9 @@ def add(x, y):
 add(1) / add(2, 3, 4) #처럼하면 오류날 수 있음
 ```
 
-
-
 ##### keyword argument의 형식 : 직접 키워드 지정
 
 keyword 함수가 먼저 나올 수 없는 이유
-
-
 
 ```python
 def add(x, y):
@@ -192,8 +186,6 @@ add(x = 3, 2) # 함수는 앞에부터 채우기 x = 3을 먼저넣어버리면
 ```
 
 > (y = 2, x = 3) 의 형태는 가능
-
-
 
 ##### Default argument values
 
@@ -209,8 +201,6 @@ range(5)
 
 range(1, 5)가 가능한 이유는 range의 시작점이 0부터 default값이 설정되어있는 것
 
-
-
 ##### python의 범위
 
 각 범위들은 본인 기준이기에 local에서 enclose였던 부분도 enclose에선 local임
@@ -218,3 +208,15 @@ range(1, 5)가 가능한 이유는 range의 시작점이 0부터 default값이 �
 위치 보는 함수 print(locals())
 
   print(globals())
+
+
+
+> 재귀 함수 주의 사항
+
+- 재귀 함수는 base case에 도달할 때 까지 함수를 호출함
+
+- 메모리 스택이 넘치게 되면(stack overflow) 프로그램이 동작하지 않게 도미
+
+- 파이썬에서는 최대 재귀 깊이(maximum recursion depth)가 1,000번으로, 호출 횟수가 이를 넘어가게 되면 Recursion Error 발생
+
+- 재귀함수는 펜과 종이로 그려보면서 생각해보는것도 중요
