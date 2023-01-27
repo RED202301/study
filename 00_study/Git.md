@@ -184,4 +184,4 @@ dd =>  그줄 삭제
 
 실수로 코드입력했을 시 위에 종료 or 커널에 restart clear
 
-jp 나올때 컨트롤 c 2번 3번 정도하고 bash나와지면 jp끄기
+jp 나올때 컨트롤 c 2번 3번 정도하고 bash나와지면 jp끄기log
