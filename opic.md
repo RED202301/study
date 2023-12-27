@@ -1,24 +1,12 @@
 # OPIC
 
-
+asdfdsfsd
 
 ## IM 시리즈
 
-
-
 - MP가 무엇인가?
 
-
-
-
-
 - 4가지 카테코리(description, habit, past experiece, compaison)
-
-
-
-
-
-
 
 - 7가지 규칙
 1. ##### Never ask Ava a question. if you must, ask a rhetorical question.
@@ -52,5 +40,3 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
 5. Talk about one thing, and one thing only!
    
    > 한가지에 대해서만 말하기!
-
-
