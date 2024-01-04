@@ -40,3 +40,69 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
 5. Talk about one thing, and one thing only!
    
    > 한가지에 대해서만 말하기!
+
+
+
+## VOCA
+
+1. apprehend 이해하다, 체포하다, 염려하다.
+
+2. abandon 포기하다, 버리다/ abandonment 포기
+
+3. abhor 혐오하다. abhorrent 혐오스러운
+
+4. abridge 요약하다, abrdigment 요약, 축소
+
+5. condemn 유죄판결을 내리다.
+
+6. ad hoc 즉석의, 임시의
+
+7. addict 중독시키다. 중독자
+
+8. abolish 폐지하다.  abolishment
+
+9. aggregate 모으다. aggregation 집합, 집성, 집적
+
+10. backlash 반발, 반동
+
+11. backwater 벽지, 침체지
+
+12. balk 방해, 장애
+
+13. ban 금지, 금하다.
+
+14. caliber 역량
+
+15. callous 냉담한
+
+16. camouflage 위장하다
+
+17. damp 축축한
+
+18. deadlock 교착상태
+
+19. deadly 치명적인
+
+20. dearth 부족
+
+21. debase 저하시키다.
+
+22. abide by 떨어뜨리다.
+
+23. abide by ~을 지키다.
+
+24. yearn for ~을 동경하다.
+
+25. write off 탕감하다.
+
+26. wrestle with ~을 해결하려고 애쓰다.
+
+27. wreak havoc on ~을 망치다.
+
+28. worth one`s salt 값을 하는
+
+29. work[do] wonders 기적을 낳다.
+
+30. work out  해결하다.
+
+31. without regard to ~에 상관없이
