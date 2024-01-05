@@ -116,3 +116,11 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
 3. abrogate 폐지하다
 
 4. interrogate 심문하다
+
+5. investigate 조사하다
+
+6. ameliorate 개선하다.
+
+7. appraise 평가하다.
+
+8. condone 용납하다.
