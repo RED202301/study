@@ -41,9 +41,9 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
    
    > 한가지에 대해서만 말하기!
 
-
-
 ## VOCA
+
+### DAY 1
 
 1. apprehend 이해하다, 체포하다, 염려하다.
 
@@ -106,3 +106,13 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
 30. work out  해결하다.
 
 31. without regard to ~에 상관없이
+
+### DAY 2
+
+1. aggravate 약화시키다.
+
+2. adverse 불리한
+
+3. abrogate 폐지하다
+
+4. interrogate 심문하다
