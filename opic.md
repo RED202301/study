@@ -124,3 +124,61 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
 7. appraise 평가하다.
 
 8. condone 용납하다.
+
+9. bargain 흥정
+
+10. barter 물물교환
+
+11. candor 솔직함
+
+12. capability 역량
+
+13. project 예상하다.
+
+14. debacle 대실패
+
+15. debris 잔해
+
+16. decade 십년
+
+17. decay 썩다
+
+18. diagnosis 진단
+
+19. effective 효과적인
+
+20. absent 결석한, 부재인
+
+21. absorb 흡수하다
+
+22. account for ~을 설명하다
+
+23. with the one's heart and soul 온 정성을 다하여
+
+24. with flying colors 당당하게
+
+25. with caution 주의 깊게
+
+26. with all ~에도 불구하고
+
+27. with (one's) tongue in (one's) cheek 끝내다
+
+28. wide of the mark 빗나간
+
+29. get rid of 제거하다 (dispose of, obviate, eliminate) 몰아내다 dismiss, fire
+
+30. provide for 준비하다. 2. 부양하다
+
+31. go back on 어기다, 버리다 
+
+32. renege on 철회하다. revoke, retract one's words 속이다. betray
+
+33. get the ax 해고되다. get the pink slip, get dismissed/fired
+
+34. inasmuch as ~하는 한 to the extent that, insofar as, as/so far as ~이므로 seeing that, now that, since, because
+
+35. on behalf of ~을 대신하여 in place of, instead of
+
+36. settle down 진정하다
+
+37. give vent to 터트리다.
