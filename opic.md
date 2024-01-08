@@ -182,3 +182,89 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
 36. settle down 진정하다
 
 37. give vent to 터트리다.
+
+
+
+## VOCA 3일차
+
+1. alleviate 완화시키다
+
+2. accumulate 축적하다
+
+3. admire 존경하다
+
+4. affluent 부유한
+
+5. manipulate 교묘하게 다루다.
+
+6. defunct 기능이 정지된, 현존하지 않은
+
+7. convey 전달하다.
+
+8. consent 전달하다
+
+9. consent 동의
+
+10. capsize 뒤엎다
+
+11. decelerate 속도를 줄이다.
+
+12. deceptive 거짓의
+
+13. declare 선언하다.
+
+14. egregious 지독한
+
+15. eject 쫓아내다.
+
+16. elaborate 정교한
+
+17. abstract 추상적인
+
+18. abstruse 난해한
+
+19. absurd 불합리한
+
+20. abuse 오용
+
+21. bemused 멍한
+
+22. benediction 축복
+
+23. at one's discretion (of) ~의 재량으로
+
+24. white elephant 성가신
+
+25. wet blanket 흥을 깨뜨리는 사람
+
+26. weed out 제거하다.
+
+27. watch over ~을 보살피다.
+
+28. waste A on B B에 A를 허비하다.
+
+29. ward off ~을 피하다.
+
+30. walk out on ~을 버리다.
+
+
+
+vulnerable to 입기쉬운
+
+get in the way of 방해되다.
+
+beside/off the point 요점(핵심)을 벗어난
+
+keep ~at arm's length ~와 거리를 두다
+
+make (both) ends meet 빛지지 않고 살다
+
+have/get the upper hand 우세하다.
+
+get/be on good terms with ~와 사이가 좋다.
+
+beat around/about the bush 돌려 말하다.
+
+
+
+# 
