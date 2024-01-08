@@ -267,4 +267,66 @@ beat around/about the bush 돌려 말하다.
 
 
 
-# 
+## VOCA 4
+
+
+
+disclose 드러내다.
+
+aloof 냉담한
+
+ample 많은
+
+audacious 대담한
+
+captivate 매혹하다
+
+edible 식용의
+
+encapsulate 매혹하다
+
+impede 방해하다
+
+eligible 적합한
+
+eliminate 제거하다
+
+abysmal 최악의
+
+accentuate 강조하다
+
+accessible 접근하기 쉬운
+
+benevolent 자애로운
+
+delinquent 비행의
+
+bent 성향
+
+bereft 잃은
+
+beset 괴롭히다
+
+catchy 기억하기 쉬운
+
+catholic 가톨릭의
+
+cede 양도하다
+
+at stake 위기에 처한
+
+walk of life 직업
+
+wait on ~을 시중들다
+
+vouch for ~을 보증하다
+
+vice versa 반대로
+
+usher in ~을 알리다.
+
+use up 다 써 버리다
+
+up-to-the-minute 최근의
+
+ups and downs 기복
