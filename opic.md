@@ -183,8 +183,6 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
 
 37. give vent to 터트리다.
 
-
-
 ## VOCA 3일차
 
 1. alleviate 완화시키다
@@ -247,8 +245,6 @@ this 보단 it's or my를 사용 (자신의 이야기 임을 강조)
 
 30. walk out on ~을 버리다.
 
-
-
 vulnerable to 입기쉬운
 
 get in the way of 방해되다.
@@ -265,11 +261,7 @@ get/be on good terms with ~와 사이가 좋다.
 
 beat around/about the bush 돌려 말하다.
 
-
-
 ## VOCA 4
-
-
 
 disclose 드러내다.
 
@@ -330,3 +322,171 @@ use up 다 써 버리다
 up-to-the-minute 최근의
 
 ups and downs 기복
+
+# Voca 5
+
+conspicuous 눈에 띄는 
+
+appreciate 감사하다.
+
+> appreciative 고마워하는
+
+compassion 동정심
+
+> compassionate 동정하는
+
+conceal 숨기다
+
+allocate 할당하다.
+
+> allocation 할당
+
+maneuver 조종하다
+
+penal 처벌의
+
+elude 교묘히 피하다
+
+jaundiced 편견을 가진
+
+aberrant 도리를 벗어난
+
+acclaim 찬사, 환호
+
+accomplice 공범(자)
+
+accommodate 적응시키다.
+
+> accommodation 숙박, 숙소
+
+account 설명, 계산, 계좌
+
+besiege  포위하다.
+
+bewilder 당황하게 하다
+
+biennial 2년에 한 번식의
+
+> biennially 2년마다
+
+bigotry 편견
+
+bilateral 쌍방의
+
+cemetery 공동묘지
+
+censure 비난하다.
+
+at the expense [cost] of ~을 희생하여
+
+up in the air 아직 미정인
+
+uneual to ~을 감당할 수 없는
+
+sick of ~에 싫증이 난
+
+under the weather 몸이 좀 안 좋은
+
+under the table 몰래
+
+under the pretense of ~을 핑계 삼아
+
+under one's breath 작은 목소리로
+
+under  no circumstances 무슨 일이 있어도 ~않는
+
+set about 1. 시작하다., 착수하다. 2. 공격하다.
+
+take over 인계받다
+
+put forward 제출하다.
+
+on the spot 현장에서
+
+nothing but ~에 지나지 않은
+
+for nothing 무료로
+
+make do with ~으로 때우다.
+
+take A for B A를 B로 착각하다.
+
+## Voca 6
+
+discern 분별하다.
+
+condescending 거들먹거리는
+
+confer 의논하다.
+
+ambiguous 애매한
+
+> 애매한
+
+analogous  유사한
+
+prosperous 번영하는
+
+revere 숭배하다
+
+embolden 용기를 주다.
+
+embody 구체화하다
+
+accountant 회계사
+
+accuse 비난하다.
+
+accustomed 익숙한
+
+biography 전기
+
+extremely 극심히
+
+blackmail 공갈
+
+blanch 창백하다
+
+charity 자선
+
+chauffeur 운전사
+
+degrade 비하하다
+
+coincidence 우연의 일치
+
+deleterious 해로운
+
+at the mercy of  ~에 좌우되는
+
+turn up 나타나다
+
+turn to ~에 의지하다.
+
+turn over a new leaf 새삶이 되다.
+
+turn one's nose up ~을 우쭐하게 만들다.
+
+turn  away 돌려보내다.
+
+turn aside 비켜나다.
+
+break in 침입하다.
+
+
+
+cut in/into 끼어들다
+
+comply  with 따르다.
+
+at first hand 직접적으로
+
+at odds (with) 의견이 다른, 불화하여, 사이가 좋지 못한
+
+keep to oneself 초연하게 있다.
+
+out of the blue 뜻밖에
+
+pain in the neck 골칫거리
+
+be oblivious to/of ~을 잘 잊다
